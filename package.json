@@ -1,0 +1,19 @@
+{
+  "name": "chatgpt-server",
+  "version": "1.0.0",
+  "description": "Enhanced Open AI ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odhissm/OpenAI-chatGPT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odhissm/OpenAI-chatGPT/issues"
+  },
+  "homepage": "https://github.com/odhissm/OpenAI-chatGPT#readme"
+}
